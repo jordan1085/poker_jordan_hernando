@@ -32,4 +32,4 @@ class Poker extends TestCase {
     }
 }
 const pokerGame = new Poker();
-console.log(pokerGame.testAlgorithm());
+pokerGame.testAlgorithm();
